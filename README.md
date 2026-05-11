@@ -96,19 +96,11 @@
 # 🎧 Now Playing
 
 <div align="center">
-
-<table border="0" cellspacing="0">
-<tr>
-<td valign="middle" width="45%">
-<img src="https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif" width="100%" />
-</td>
-<td valign="middle" width="55%">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bc43f3rwjyoooxfchtq4s2nidu&cover_image=true&theme=default&show_offline=true&background_color=222231&interchange=true&profanity=false&bar_color_cover=false&bar_color=5b2fd0)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-</tr></table>
-
+<img src="https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif" height="400" width=600 />
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bc43f3rwjyoooxfchtq4s2nidu&cover_image=true&theme=default&show_offline=true&background_color=222231&interchange=true&profanity=false&bar_color_cover=false&bar_color=5b2fd0" height="400" />
+</a>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
