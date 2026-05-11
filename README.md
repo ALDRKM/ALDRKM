@@ -95,7 +95,7 @@
 
 # 🎧 Now Playing
 
-<div align="center">
+<div align="left">
 <img src="https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif" height="400" width=550 />
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kittinan/spotify-github-profile">
