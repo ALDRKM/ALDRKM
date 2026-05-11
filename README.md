@@ -1,15 +1,18 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1M3B3a3M1N3BqM2V4a2R4bDJ3aW9mM2Q0MXN0dWQ1dWQ1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="20%" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1M3B3a3M1N3BqM2V4a2R4bDJ3aW9mM2Q0MXN0dWQ1dWQ1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="25%" />
+
 <br>
+
 # 👋 Hey, I'm ALDRKM
 
 ### 💫 *"Experience is the name everyone gives to their mistakes."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Creative+Editor+%26+Designer;C%23+%7C+TypeScript+%7C+Python;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Creative+Editor+%26+Designer;C%23+%7C+TypeScript+%7C+Python;Always+Learning+New+Things" />
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 🚀 Tech Stack
 
@@ -17,11 +20,11 @@
 
 ### 💻 Languages
 
-![C#](https://img.shields.io/badge/C%23-7A3EF0?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-EA580C?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -29,26 +32,26 @@
 
 ### ⚙️ Backend & Frameworks
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
 ### 🎨 Design & Editing
 
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-5B21B6?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-4338CA?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0284C7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🛠 Tools
 
-![Postman](https://img.shields.io/badge/Postman-EA580C?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -58,9 +61,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALDRKM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALDRKM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALDRKM&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALDRKM&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -86,8 +89,29 @@
 
 ---
 
+<h2 align="center">🎧 Now Playing</h2>
+
 <div align="center">
 
-### ⚡ Building ideas, fixing mistakes, gaining experience.
+  <!-- 🔥 LIVE CORNER -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
+
+  <br><br>
+
+  <b>🔥 Live Mode</b>
+  <br>
+  <sub>eat • sleep • code • repeat</sub>
+
+  <br><br><br>
+
+  <!-- 🎵 SPOTIFY (FIXED) -->
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=REPLACE_WITH_YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=7C4DFF&bar_color_cover=false"
+    width="350"
+  />
+
+  <br><br>
+
+  <sub>🎵 Currently vibing while coding • 💜 Focus mode ON</sub>
 
 </div>
