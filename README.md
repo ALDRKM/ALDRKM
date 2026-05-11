@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+
+![eat sleep code repeat](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9e0059&center=true&vCenter=true&width=500&lines=eat+%F0%9F%8D%95+sleep+%F0%9F%98%B4+code+%F0%9F%92%BB+repeat+%F0%9F%94%81)
+
+</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 🚀 Tech Stack
@@ -87,4 +93,23 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+# 🎧 Now Playing
+
+<div align="center">
+
+<table border="0" cellspacing="0">
+<tr>
+<td valign="middle" width="45%">
+<img src="https://media0.giphy.com/media/VJxNm7zrm3K4E/giphy.gif" width="100%" />
+</td>
+<td valign="middle" width="55%">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bc43f3rwjyoooxfchtq4s2nidu&cover_image=true&theme=default&show_offline=true&background_color=222231&interchange=true&profanity=false&bar_color_cover=false&bar_color=5b2fd0)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+</tr></table>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
