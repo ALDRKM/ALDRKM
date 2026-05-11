@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="20%" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="20%" /><br>
 # 👋 Hey, I'm ALDRKM
 
 ### 💫 *"Experience is the name everyone gives to their mistakes."*
