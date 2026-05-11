@@ -87,31 +87,6 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">🎧 Now Playing</h2>
 
-<div align="center">
-
-  <!-- 🔥 LIVE CORNER -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
-
-  <br><br>
-
-  <b>🔥 Live Mode</b>
-  <br>
-  <sub>eat • sleep • code • repeat</sub>
-
-  <br><br><br>
-
-  <!-- 🎵 SPOTIFY (FIXED) -->
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=REPLACE_WITH_YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=7C4DFF&bar_color_cover=false"
-    width="350"
-  />
-
-  <br><br>
-
-  <sub>🎵 Currently vibing while coding • 💜 Focus mode ON</sub>
-
-</div>
